@@ -1,0 +1,7 @@
+__pycache__/
+client/
+blob_storage/
+.vscode/
+build/
+dist/
+webrtc_event_logs/
